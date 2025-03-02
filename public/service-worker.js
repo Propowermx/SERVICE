@@ -40,3 +40,4 @@ self.addEventListener("activate", (event) => {
     self.clients.claim(); // Take control of open pages
 });
 
+
